@@ -166,6 +166,6 @@ SOFTWARE.
 For any queries or feedback, feel free to reach out:
 
 **Munna Reddy**  
-Email: reddymunna148@gmail.com
-GitHub: (https://github.com/Munna148)
+-Email: reddymunna148@gmail.com
+-GitHub: (https://github.com/Munna148)
 
