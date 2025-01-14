@@ -1,12 +1,12 @@
- # Google Excel Sheets Clone
+ # Web Application Mimicking Google Sheets
 
-The **Google Excel Sheets Clone** Project is a web-based application designed to provide seamless integration with Google Sheets using a robust full-stack architecture. It features a modern frontend built with React and Vite and a backend powered by Node.js, Express.js, and MongoDB.
+The **Web Application Mimicking Google Sheets** Project is a web-based application designed to provide seamless integration with Google Sheets using a robust full-stack architecture. It features a modern frontend built with React and Vite and a backend powered by Node.js, Express.js, and MongoDB.
 
 ---
 
 ## Features
 
-- **Google Excel Sheets Clone**: Perform CRUD operations with Google Sheets data.
+- **Web Application Mimicking Google Sheets**: Perform CRUD operations with Google Sheets data.
 
 - **Modern UI**: Built with React and styled for a sleek user experience.
 
